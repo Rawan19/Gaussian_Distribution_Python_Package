@@ -34,4 +34,5 @@ gaussian_one.mean
 
 gaussian_one + gaussian_one
 
+(You can find a detailed description of each function's usage in the following files: Gaussiandistribution.py and Binomiladistribution.py inside the RG_distributions directory)
 ## Package URL: https://pypi.org/project/RG-distributions/0.1/

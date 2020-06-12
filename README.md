@@ -4,6 +4,7 @@ This project is a part of Udacity's AWS Machine Learning Foundations Course.
 In this repo, I developed a python package (How exciting is that!) that is used for analyzing both gaussian and binomial distributions (How not so exciting is that!) .
 
 You can use the package to:
+
 1)Read a dataset
 
 2)Calculate mean

@@ -25,4 +25,13 @@ The main goal of this assignment is to develop object-oriented programming skill
    * magic methods
    * inheritance
 
-Pakage URL: https://pypi.org/project/RG-distributions/0.1/
+## Example usage:
+from RG-distributions import Gaussian
+
+gaussian_one = Gaussian(25, 2)
+
+gaussian_one.mean
+
+gaussian_one + gaussian_one
+
+## Package URL: https://pypi.org/project/RG-distributions/0.1/
